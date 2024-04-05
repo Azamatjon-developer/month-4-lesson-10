@@ -125,7 +125,32 @@
 // 4 task finished 
 
 
+// 5 task starts  
 
+
+// function VowelLetters (params) {
+
+//     let str = params
+//     let newString = str.toLowerCase().trim() 
+
+//     let letters = ["a" , "u", "o", "o'", "i" , "e"]
+
+//     vowel = 0 
+
+// for (let i = 0 ; i < params.length; i++) {
+//     for (let g = 0; g < letters.length; g++) {
+
+//         if (params[i] === letters[g]) {
+//             vowel++
+//         }
+
+//     }
+// }
+
+// console.log(`argument sifatidan berilgan so'z ichida ${vowel} ta unli harf bor`);
+
+// }
+// VowelLetters ("azamatjon")
 
 
 
@@ -158,8 +183,6 @@
 
 //  6task 2 method starts 
 
-
-
 // function findOddNumber (n) {
 
 //     const result = []
@@ -173,3 +196,6 @@
 //     console.log(result);
 // }
 // findOddNumber(4)
+
+
+// 6 task 2 method finished 
